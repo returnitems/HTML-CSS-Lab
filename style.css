@@ -1,0 +1,46 @@
+.sProof {
+    width: 1440px;
+    height: 1095px;
+    margin: auto;
+    background: rgba(255, 255, 255, 1);
+}
+
+.socialproof {
+    width: 1440px;
+    height: 268px;
+    background: rgba(242, 242, 242, 1);
+}
+
+.trust {
+    font-size: 24px;
+    line-height: 33.75px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.companies {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: rgba(0, 0, 0, 1);
+}
+
+section {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.spTestimonial {
+    width: 1440px;
+    height: 379px;
+    background: rgba(242, 242, 242, 1);
+}
+
+/* .testimonial {
+    width: 1440px;
+    height: 400px;
+    background: rgba(242, 242, 242, 1);
+} */
