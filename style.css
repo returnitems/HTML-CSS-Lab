@@ -1,3 +1,4 @@
+/* Main div block containing 3 smaller blocks */
 .sProof {
     width: 1440px;
     height: 1095px;
@@ -5,6 +6,7 @@
     background: rgba(255, 255, 255, 1);
 }
 
+/* Block 1 ------------------------------- */
 .socialproof {
     width: 1440px;
     height: 268px;
@@ -28,19 +30,83 @@
     background: rgba(0, 0, 0, 1);
 }
 
-section {
+.circle {
     text-align: center;
     padding-top: 15px;
 }
 
+/* Block 2 -------------------------------- */
 .spTestimonial {
     width: 1440px;
     height: 379px;
     background: rgba(242, 242, 242, 1);
 }
 
-/* .testimonial {
+.publication {
+    font-size: 24px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.sampleText {
+    font-size: 20px;
+    text-align: center;
+    line-height: 28.13px;
+    text-wrap: wrap;
+    width: 550px;
+    height: 57px;
+    margin: 0 auto;
+}
+
+.rectangle {
+    width: 908px;
+    height: 40px;
+    margin: 0 auto;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.imgT {
+    width: 120px;
+    height: 40px;
+    background: black;
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+/* Block 3 ------------------------------- */
+.testimonial {
     width: 1440px;
     height: 400px;
     background: rgba(242, 242, 242, 1);
-} */
+}
+
+.quoteText {
+    text-align: center;
+    font-size: 24px;
+    line-height: 32.62px;
+    width: 981px;
+    height: 33px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 132px;
+}
+
+.mediaPerson {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 1);
+    margin: 0 auto;
+    display: block;
+}
+
+.personName {
+    font-size: 14px;
+    height: 20px;
+    width: 237px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 20px;
+}
